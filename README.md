@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kugapriyan</h1>
 <h3 align="center">I'm a Student, Web Developer and Mobile Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kugan7370&label=Profile%20views&color=0e75b6&style=flat" alt="kugan7370" /> </p>
 
 - 🎓 I’m a undergraduate at [Sabaragamuwa University of Srilanka](https://www.sab.ac.lk/)
